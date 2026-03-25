@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import { CaseTasksClient } from "@/features/tasks/components/TaskWorkspace";
 import { getTasksByCase } from "@/features/tasks/server/queries";
 import type { TaskViewMode } from "@/features/tasks/types";

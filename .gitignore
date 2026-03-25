@@ -1,6 +1,10 @@
 # OpenNext
 .open-next
 
+# node modules
+node_modules/
+.next/
+
 # wrangler files
 .wrangler
 .dev.vars*

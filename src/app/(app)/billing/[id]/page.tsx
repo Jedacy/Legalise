@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import { notFound } from "next/navigation";
 
 import { InvoiceDetailClient } from "@/features/billing/components/InvoiceDetailClient";

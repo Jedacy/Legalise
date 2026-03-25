@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import { PracticeSettingsClient } from "@/features/settings/components/PracticeSettingsClient";
 import { getPracticeSettingsData } from "@/features/settings/server/queries";
 

@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import { DocumentsWorkspaceClient } from "@/features/documents/components/DocumentsWorkspaceClient";
 import { getCaseDocumentWorkspace } from "@/features/documents/server/queries";
 import { getCaseById } from "@/features/cases/server/queries";

@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import { CaseCalendarClient } from "@/features/calendar/components/CalendarWorkspace";
 import { getEventsByCase } from "@/features/calendar/server/queries";
 import { getCaseById } from "@/features/cases/server/queries";

@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import { TeamSettingsClient } from "@/features/settings/components/TeamSettingsClient";
 import { getTeamSettingsData } from "@/features/settings/server/queries";
 
