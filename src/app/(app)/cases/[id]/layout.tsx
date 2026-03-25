@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import type { ReactNode } from "react";
 
 import { CaseShell } from "@/components/case/CaseShell";

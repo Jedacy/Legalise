@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import { CaseAuditClient } from "@/features/audit/components/CaseAuditClient";
 import { getCaseAudit } from "@/features/audit/server/queries";
 

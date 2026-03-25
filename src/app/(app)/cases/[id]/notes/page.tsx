@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import { CaseNotesClient } from "@/features/notes/components/CaseNotesClient";
 import { getCaseNotes } from "@/features/notes/server/queries";
 

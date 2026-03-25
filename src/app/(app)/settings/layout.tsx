@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import type { ReactNode } from "react";
 
 import { SettingsShell } from "@/features/settings/components/SettingsShell";

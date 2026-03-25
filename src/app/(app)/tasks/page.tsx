@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import { TasksWorkspaceClient } from "@/features/tasks/components/TaskWorkspace";
 import { getTaskWorkspace } from "@/features/tasks/server/queries";
 import type { TaskScope, TaskViewMode } from "@/features/tasks/types";

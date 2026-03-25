@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import Link from "next/link";
 
 import { Badge, Button, Input } from "@/components/ui";

@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import { SettingsOverview } from "@/features/settings/components/SettingsOverview";
 import { getSettingsWorkspace } from "@/features/settings/server/queries";
 
