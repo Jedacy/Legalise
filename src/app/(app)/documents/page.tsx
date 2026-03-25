@@ -1,4 +1,3 @@
-export const runtime = 'edge';
 import { DocumentsWorkspaceClient } from "@/features/documents/components/DocumentsWorkspaceClient";
 import { getDocumentWorkspace } from "@/features/documents/server/queries";
 import { getApiBaseUrl, getDataSource } from "@/lib/data-source";

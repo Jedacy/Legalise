@@ -1,4 +1,3 @@
-export const runtime = 'edge';
 import { CasesWorkspaceClient } from "@/features/cases/components/CasesWorkspaceClient";
 import { getCaseWorkspace } from "@/features/cases/server/queries";
 

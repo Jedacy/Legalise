@@ -1,4 +1,3 @@
-export const runtime = 'edge';
 import { CaseBillingClient } from "@/features/billing/components/CaseBillingClient";
 import { getCaseBilling } from "@/features/billing/server/queries";
 import { getCaseById } from "@/features/cases/server/queries";
