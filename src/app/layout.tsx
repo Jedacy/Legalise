@@ -1,4 +1,3 @@
-export const runtime = 'edge';
 import "./globals.css";
 import type { Metadata, Viewport } from "next";
 import type { ReactNode } from "react";
