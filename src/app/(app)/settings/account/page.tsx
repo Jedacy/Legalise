@@ -1,4 +1,3 @@
-export const runtime = 'edge';
 import { AccountSettingsClient } from "@/features/settings/components/AccountSettingsClient";
 import { getAccountSettingsData } from "@/features/settings/server/queries";
 

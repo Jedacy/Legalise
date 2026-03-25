@@ -1,4 +1,3 @@
-export const runtime = 'edge';
 import { BillingWorkspaceClient } from "@/features/billing/components/BillingWorkspace";
 import { getBillingWorkspace } from "@/features/billing/server/queries";
 

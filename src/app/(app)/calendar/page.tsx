@@ -1,4 +1,3 @@
-export const runtime = 'edge';
 import dynamicImport from "next/dynamic";
 import { getCalendarWorkspace } from "@/features/calendar/server/queries";
 import CalendarLoading from "./loading";

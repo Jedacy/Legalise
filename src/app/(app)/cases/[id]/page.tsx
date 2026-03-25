@@ -1,4 +1,3 @@
-export const runtime = 'edge';
 import { getCaseById } from "@/features/cases/server/queries";
 import { formatDate, formatDateTime, formatGHS } from "@/lib/utils";
 
